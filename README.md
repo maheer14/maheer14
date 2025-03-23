@@ -6,7 +6,8 @@ Welcome to my Github page! I'm a Software Developer specializing in QA and backe
 😄 In my spare time I'm working on personal projects like my portfolio website and a secret new thing (don't tell anyone 🤫)
 
 ## What have I already done? 
-🎮 I've made a couple video games, one of which I worked on with a biomedical research lab. My specialties are UI/UX and creating AI algorithms 🤖
+🎮 I've made a couple video games, one of which I worked on with a biomedical research lab. 
+    My specialties are UI/UX and creating AI algorithms 🤖
 
 ✍️ I created a lottery-based process scheduler with custom 'ps' command-line integration
 
