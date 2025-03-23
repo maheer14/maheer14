@@ -2,6 +2,7 @@
 Welcome to my Github page! I'm a Software Developer specializing in QA and backend development. 
 
 🧐 I'm currently working in a research group specializing in turning videos into stream data! 
+
 😄 In my spare time I'm working on personal projects like my portfolio website and a secret new thing (don't tell anyone 🤫)
 <!--
 **maheer14/maheer14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
