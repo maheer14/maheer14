@@ -7,7 +7,7 @@ Welcome to my Github page! I'm a Software Developer specializing in QA and backe
 
 ## Skills and Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-black?logo=c%2B%2B&style=social))
+![Python]((https://img.shields.io/badge/Python-black?logo=c%2B%2B&style=social))
 ![C++]((https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social))
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=database&logoColor=white)
