@@ -6,7 +6,7 @@ Welcome to my Github page! I'm a Software Developer specializing in QA and backe
 😄 In my spare time I'm working on personal projects like my portfolio website and a secret new thing (don't tell anyone 🤫)
 
 ## My website!
-![Portfolio](https://maheer-portfolio.vercel.app/)
+[Portfolio](https://maheer-portfolio.vercel.app/)
 ## Skills and Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
