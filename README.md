@@ -54,7 +54,7 @@ Welcome to my Github page! I'm a Software Developer specializing in QA and fulls
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheer14&show_icons=true&theme=tokyonight" alt="Maheer's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maheer14&theme=tokyonight&hide_border=true" alt="Maheer's GitHub Streak" />
 </div>
 
 <!--
